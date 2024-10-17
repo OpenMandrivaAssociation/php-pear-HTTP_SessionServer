@@ -8,7 +8,7 @@ Release:	10
 Summary:	Daemon to store session data
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/HTTP_SessionServer/
+URL:		https://pear.php.net/package/HTTP_SessionServer/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
